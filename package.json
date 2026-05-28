@@ -1,0 +1,11 @@
+{
+  "name": "omnimed-recruitment",
+  "version": "1.0.0",
+  "description": "Boutique Medical Recruitment Corporate Website",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "author": "Antigravity",
+  "license": "MIT"
+}
